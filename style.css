@@ -1,0 +1,78 @@
+*, html, body
+{
+	font-family: 'Slabo 27px', serif;
+}
+
+/* navigation */
+.navbar
+{
+	margin-bottom: 0px;
+}
+.navbar .navbar-nav
+{
+	display: inline-block;
+	float: none;
+	vertical-align: top;
+}
+.navbar .navbar-collapse
+{
+	text-align: center;
+}
+.navbar-default
+{
+	background: #fff;
+	border: 0;
+	font-size: 1.5em;
+}
+
+/* header container */
+.header-container
+{
+	color: #ffffff;
+	background-image: url(static/header.jpg);
+	background-position: center center;
+	line-height: 5.0em;
+	text-align: center;
+	padding: 120px;
+}
+.header-container h1
+{
+	font-size: 7.0em;
+}
+.header-container h2
+{
+	font-size: 5.0em;
+}
+
+/* welcome */
+.welcome-container
+{
+	font-size: 1.5em;
+	padding: 35px 0;
+}
+
+/* contact */
+.contact-container
+{
+	background: rgb(182, 61, 50);
+	color: #fff;
+	padding: 35px 0;
+}
+
+/* service */
+.service-container
+{
+	padding: 35px 0;
+}
+
+/* gallery */
+.gallery-container
+{
+	background: rgb(182, 61, 50);
+	color: #fff;
+	padding: 35px 0;
+}
+.gallery-container .row
+{
+	margin-top: 25px;
+}
