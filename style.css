@@ -76,3 +76,8 @@
 {
 	margin-top: 25px;
 }
+#lightgallery {
+}
+#lightgallery img {
+	padding: 3px;
+}
